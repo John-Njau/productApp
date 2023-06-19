@@ -1,0 +1,22 @@
+{
+    "tasks": [
+        {
+            "task": "Buy"
+        },
+        {
+            "task": "Order"
+        },
+        {
+            "task": "Register"
+        },
+        {
+            "task": "Apply"
+        },
+        {
+            "task": "Report"
+        },
+        {
+            "task": "File"
+        }
+    ]
+}
